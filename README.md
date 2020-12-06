@@ -19,9 +19,9 @@ Here you can see the already cut uproghts:
 Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an alluminium bar, a couple of F-clamps (with off-cuts wood buffers) and masking tape. The result is **good enough, but far from perfect** because I should have used a blade with smaller teeth, worked with a slower speed and removed the masking tape with more care:
 ![Small dents in the plywood](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130549.jpg)
 ![Hard to see adhesive tape marks](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130601.jpg)
-Anyway, I'm quite happy of the result and there's no obvious crack
+Anyway, I'm quite happy of the result and there's no obvious visible damage. Remember that when cutting with the jigsaw (at least with by blades) the side on top will be ok, while the bottom side will get the previous cracks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU1Mzk5LC04OTA5NDk1NjksLTE4OT
-k0OTkxMjMsODU0Nzg3MDUxLC01NjQ0NjYyMDksLTI5MjkxMTc1
-OSwtMTMzMjU1MTcwMF19
+eyJoaXN0b3J5IjpbMjA5MDc3ODc0MywtODkwOTQ5NTY5LC0xOD
+k5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3
+NTksLTEzMzI1NTE3MDBdfQ==
 -->
