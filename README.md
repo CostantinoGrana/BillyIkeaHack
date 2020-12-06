@@ -12,9 +12,11 @@ Here is the second one:
 ![Two modules](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122103.jpg)
 ![Two modules front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122113.jpg)
 
-Now, let's see how I did it. First of all, don't make my mistake: after cutting one side, put the 
+Now, let's see how I did it. First of all, don't make my mistake: after completing one module, don't cut the upright by measuring it, but put the two corresponding uprights side by side and 
+
+ 
 ![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYyMjQ3OSwtMjkyOTExNzU5LC0xMz
+eyJoaXN0b3J5IjpbMTI2MzU5NTYzNSwtMjkyOTExNzU5LC0xMz
 MyNTUxNzAwXX0=
 -->
