@@ -13,10 +13,10 @@ Here is the second one:
 ![Two modules front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122113.jpg)
 
 Now, let's see how I did it. First of all, don't make my mistake: after completing one module, don't cut the upright by measuring it, but put the two corresponding uprights side by side and mark the cutting line that way. Otherwise you will get two sides with one or two millimetres difference and fixing that is a nightmare.
-Here you can see the already cut uproghts: 
+Here you can see the already cut uprights: 
 ![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 
-Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an alluminium bar, a couple of F-clamps (with off-cuts wood buffers) and masking tape. The result is **good enough, but far from perfect** because I should have used a blade with smaller teeth, worked with a slower speed and removed the masking tape with more care:
+Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an aluminium bar, a couple of F-clamps (with off-cuts wood buffers) and masking tape. The result is **good enough, but far from perfect** because I should have used a blade with smaller teeth, worked with a slower speed and removed the masking tape with more care:
 ![Small dents in the plywood](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130549.jpg)
 ![Hard to see adhesive tape marks](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130601.jpg)
 Anyway, I'm quite happy of the result and there's no obvious visible damage. Remember that when cutting with the jigsaw (at least with by blades) the side on top will be ok, while the bottom side will get the previous cracks.
@@ -57,9 +57,9 @@ The final result is this:
 
 All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof. I'm now thinking of extending it further over the radiator, and I'm sure I've seen an Ikea hack for this, but I can't find it anymore. I'll update this in case things extend more!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzczMzU1OCwtMTg1MDk5NTcyLC0xMT
-U4MjAwMTI0LC0xNDU0NzU0ODU1LDEzODgwNzQyNzcsNzU5MTM2
-MTM2LC00MTAyMTcxNTcsLTg5MDk0OTU2OSwtMTg5OTQ5OTEyMy
-w4NTQ3ODcwNTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5LC0xMzMy
-NTUxNzAwXX0=
+eyJoaXN0b3J5IjpbLTgyMjM5ODYwMCwxMTU3NzMzNTU4LC0xOD
+UwOTk1NzIsLTExNTgyMDAxMjQsLTE0NTQ3NTQ4NTUsMTM4ODA3
+NDI3Nyw3NTkxMzYxMzYsLTQxMDIxNzE1NywtODkwOTQ5NTY5LC
+0xODk5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5
+MTE3NTksLTEzMzI1NTE3MDBdfQ==
 -->
