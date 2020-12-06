@@ -12,8 +12,9 @@ Here is the second one:
 ![Two modules](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122103.jpg)
 ![Two modules front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122113.jpg)
 
+Now, let's see how I did it. First of all, don't make my mistake: after cutting one side, put the 
 ![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNDI1MzQ5LC0yOTI5MTE3NTksLTEzMz
-I1NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTYyMjQ3OSwtMjkyOTExNzU5LC0xMz
+MyNTUxNzAwXX0=
 -->
