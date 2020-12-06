@@ -23,9 +23,10 @@ Anyway, I'm quite happy of the result and there's no obvious visible damage. Rem
 
 Let's move to the assembling:
 ![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
-Whops! We removed the top 
+
+Whops! We removed the area where the top shelf was supposed to be attached. I tried to just ignore it, but the result wasn't stable enough
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MjEyMTcsLTg5MDk0OTU2OSwtMTg5OT
-Q5OTEyMyw4NTQ3ODcwNTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5
-LC0xMzMyNTUxNzAwXX0=
+eyJoaXN0b3J5IjpbLTE5MDMxMjIzMTEsLTg5MDk0OTU2OSwtMT
+g5OTQ5OTEyMyw4NTQ3ODcwNTEsLTU2NDQ2NjIwOSwtMjkyOTEx
+NzU5LC0xMzMyNTUxNzAwXX0=
 -->
