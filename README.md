@@ -45,12 +45,12 @@ Then you need the last hacking of the back panel, in order to have the sloping b
 ![Third module front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_151434.jpg)
 ![Fourth module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195030.jpg)
 
-
-![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_19 .jpg)
+A big problem was how to fix the columns to the wall so that they aligned correctly. 
+![Platza fixing technique](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195108 .jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4MTYwMSwxMzg4MDc0Mjc3LDc1OT
+eyJoaXN0b3J5IjpbLTkzOTk2MjAyNSwxMzg4MDc0Mjc3LDc1OT
 EzNjEzNiwtNDEwMjE3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkx
 MjMsODU0Nzg3MDUxLC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMT
 MzMjU1MTcwMF19
