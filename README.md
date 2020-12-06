@@ -16,8 +16,8 @@ Now, let's see how I did it. First of all, don't make my mistake: after completi
 Here you can see the already cut uproghts: 
 ![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 
-Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an alluminium bar,  
+Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an alluminium bar and a couple of F-clamps (with lots of wood  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODgwMzEzMywtNTY0NDY2MjA5LC0yOT
-I5MTE3NTksLTEzMzI1NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbODU0Nzg3MDUxLC01NjQ0NjYyMDksLTI5Mj
+kxMTc1OSwtMTMzMjU1MTcwMF19
 -->
