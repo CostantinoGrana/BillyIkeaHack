@@ -30,9 +30,10 @@ Whops! We removed the area where the top shelf was supposed to be attached. I tr
 I marked the drilling positions with a awl:
 ![Awl marking of drilling positions](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131249.jpg)
 
-Then I made the holes with a 4 mm and a 8 mm drill bit. Be careful, because the centering 
+Then I made the holes with a 4 mm and a 8 mm drill bit. Be careful, because the centering tip goes further than the side and you must be careful to not drill all the way through the upright. Maybe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MTM2MTM2LC00MTAyMTcxNTcsLTg5MD
-k0OTU2OSwtMTg5OTQ5OTEyMyw4NTQ3ODcwNTEsLTU2NDQ2NjIw
-OSwtMjkyOTExNzU5LC0xMzMyNTUxNzAwXX0=
+eyJoaXN0b3J5IjpbLTg4MDcxNDg0Nyw3NTkxMzYxMzYsLTQxMD
+IxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIzLDg1NDc4NzA1
+MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMzI1NTE3MDBdfQ
+==
 -->
