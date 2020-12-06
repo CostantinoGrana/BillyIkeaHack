@@ -34,9 +34,13 @@ Then I made the holes with a 4 mm and a 8 mm drill bit. Be careful, because the 
 ![8 mm holes](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131655.jpg)
 ![4 mm holes](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_132108.jpg)
 Than you can go on with the usual Billy assembly:
+![Attach to one side](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133155.jpg)
+![Put everything together](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133700.jpg)
 
+Then you need the last  of the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MDY1NzQ0LDc1OTEzNjEzNiwtNDEwMj
-E3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkxMjMsODU0Nzg3MDUx
-LC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMTMzMjU1MTcwMF19
+eyJoaXN0b3J5IjpbLTE5NTQ1MzMzODYsNzU5MTM2MTM2LC00MT
+AyMTcxNTcsLTg5MDk0OTU2OSwtMTg5OTQ5OTEyMyw4NTQ3ODcw
+NTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5LC0xMzMyNTUxNzAwXX
+0=
 -->
