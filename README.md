@@ -55,11 +55,11 @@ The final result is this:
 ![Final result](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_204959.jpg)
 ![Final result with some books](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201206_131139.jpg)
 
-All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof. I'm now thinking of extending it further over the radiator, and I'm sure I've seen an Ikea hack for this, but I can't find it anymore. I'll update this
+All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof. I'm now thinking of extending it further over the radiator, and I'm sure I've seen an Ikea hack for this, but I can't find it anymore. I'll update this in case things extend more!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzAxOTg2LC0xODUwOTk1NzIsLTExNT
-gyMDAxMjQsLTE0NTQ3NTQ4NTUsMTM4ODA3NDI3Nyw3NTkxMzYx
-MzYsLTQxMDIxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIzLD
-g1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMzI1
-NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbMTE1NzczMzU1OCwtMTg1MDk5NTcyLC0xMT
+U4MjAwMTI0LC0xNDU0NzU0ODU1LDEzODgwNzQyNzcsNzU5MTM2
+MTM2LC00MTAyMTcxNTcsLTg5MDk0OTU2OSwtMTg5OTQ5OTEyMy
+w4NTQ3ODcwNTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5LC0xMzMy
+NTUxNzAwXX0=
 -->
