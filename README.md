@@ -17,9 +17,10 @@ Here you can see the already cut uproghts:
 ![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 
 Cutting the uprights was not so difficult even using my 40 years old Black and Decker jigsaw, an alluminium bar, a couple of F-clamps (with off-cuts wood buffers) and masking tape. The result is **good enough, but far from perfect** because I should have used a blade with smaller teeth, worked with a slower speed and removed the masking tape with more care:
-![Three modules assembly](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130549.jpg)
+![Small dents in the plywood](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130549.jpg)
+![Hard to see ](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130601.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDU4MjAwNCwtODkwOTQ5NTY5LC0xOD
+eyJoaXN0b3J5IjpbLTk3NDM4NDM4MCwtODkwOTQ5NTY5LC0xOD
 k5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3
 NTksLTEzMzI1NTE3MDBdfQ==
 -->
