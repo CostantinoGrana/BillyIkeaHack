@@ -9,7 +9,8 @@ Billy is cheap and nice, well known and easy to hack. The lower side is about 15
 ![Two modules](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122103.jpg)
 ![Two modules front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_122113.jpg)
 
+![Three modules front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130234.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI0NDM3NzgsLTI5MjkxMTc1OSwtMT
-MzMjU1MTcwMF19
+eyJoaXN0b3J5IjpbMTYzODA4MzAwMywtMjkyOTExNzU5LC0xMz
+MyNTUxNzAwXX0=
 -->
