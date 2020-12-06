@@ -46,12 +46,14 @@ Then you need the last hacking of the back panel, in order to have the sloping b
 ![Fourth module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195030.jpg)
 
 A big problem was how to fix the columns to the wall so that they aligned correctly. I had previously used a Platsa and many fixing washers were left with their corresponding plastic covers, so I used two for each column:
-![Platsa fixing technique](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195108 .jpg)
-![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
+![Platsa fixing technique](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195108.jpg)
+
+And what about the lower part? Well I should have screwed the columns together, but then I thought that 
+![Bottom holding](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTQ1OTQ2OCwxMzg4MDc0Mjc3LDc1OT
-EzNjEzNiwtNDEwMjE3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkx
-MjMsODU0Nzg3MDUxLC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMT
-MzMjU1MTcwMF19
+eyJoaXN0b3J5IjpbLTUxODgxOTAsMTM4ODA3NDI3Nyw3NTkxMz
+YxMzYsLTQxMDIxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIz
+LDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMz
+I1NTE3MDBdfQ==
 -->
