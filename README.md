@@ -37,13 +37,12 @@ Than you can go on with the usual Billy assembly:
 ![Attach to one side](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133155.jpg)
 ![Put everything together](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133700.jpg)
 
-Then you need the last hacking of the back panel, in order to have the sloping back: measure the top position at each side, draw a line 
+Then you need the last hacking of the back panel, in order to have the sloping back: measure the top position at each side, draw a line and cut with a cutter. But...
 ![Measure the back panel top position](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142618.jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142827.jpg)
-
+**Don't do as I show in this picture!!!** In fact on the last Billy I realized that I should have c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzkxNDgwMyw3NTkxMzYxMzYsLTQxMD
-IxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIzLDg1NDc4NzA1
-MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMzI1NTE3MDBdfQ
-==
+eyJoaXN0b3J5IjpbNjAwNDk0Njk4LDc1OTEzNjEzNiwtNDEwMj
+E3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkxMjMsODU0Nzg3MDUx
+LC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMTMzMjU1MTcwMF19
 -->
