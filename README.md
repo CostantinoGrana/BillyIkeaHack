@@ -37,9 +37,11 @@ Than you can go on with the usual Billy assembly:
 ![Attach to one side](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133155.jpg)
 ![Put everything together](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_133700.jpg)
 
-Then you need the last  of the 
+Then you need the last hacking of the back panel:
+![Put everything together](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142618.jpg)
+![Put everything together](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142827.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ1MzMzODYsNzU5MTM2MTM2LC00MT
+eyJoaXN0b3J5IjpbLTE1OTYxMDk4MDQsNzU5MTM2MTM2LC00MT
 AyMTcxNTcsLTg5MDk0OTU2OSwtMTg5OTQ5OTEyMyw4NTQ3ODcw
 NTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5LC0xMzMyNTUxNzAwXX
 0=
