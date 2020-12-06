@@ -40,9 +40,12 @@ Than you can go on with the usual Billy assembly:
 Then you need the last hacking of the back panel, in order to have the sloping back: measure the top position at each side, draw a line and cut with a cutter. But...
 ![Measure the back panel top position](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142618.jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142827.jpg)
-**Don't do as I show in this picture!!!** In fact on the last Billy I realized that I should have c
+**Don't do as I show in this picture!!!** In fact on the last Billy I realized that, instead, I should have cut with the **white side on top**. As for the jigsaw, the cutter ruins the bottom side and is nicer on the top one. Anyway, it's not anything dramatic. It still works:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNDk0Njk4LDc1OTEzNjEzNiwtNDEwMj
-E3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkxMjMsODU0Nzg3MDUx
-LC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMTMzMjU1MTcwMF19
+eyJoaXN0b3J5IjpbLTExNzkxNjMzOTcsNzU5MTM2MTM2LC00MT
+AyMTcxNTcsLTg5MDk0OTU2OSwtMTg5OTQ5OTEyMyw4NTQ3ODcw
+NTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5LC0xMzMyNTUxNzAwXX
+0=
 -->
