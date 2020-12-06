@@ -25,9 +25,11 @@ Let's move to the assembling:
 ![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
 
 Whops! We removed the area where the top shelf was supposed to be attached. I tried to just ignore it, but the result wasn't stable enough, so we really need to provide a side-fixed top shelf. So I took the removed top part of the upright and made a reference out of it:
-![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
+![Drilling positions](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131107.jpg)
+
+I marked the drilling position with a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTI5NzYwNSwtODkwOTQ5NTY5LC0xOD
+eyJoaXN0b3J5IjpbLTg4Njk2NDI4MywtODkwOTQ5NTY5LC0xOD
 k5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3
 NTksLTEzMzI1NTE3MDBdfQ==
 -->
