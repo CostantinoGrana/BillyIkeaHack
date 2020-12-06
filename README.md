@@ -43,14 +43,15 @@ Then you need the last hacking of the back panel, in order to have the sloping b
 **Don't do as I show in this picture!!!** In fact on the last Billy I realized that, instead, I should have cut with the **white side on top**. As for the jigsaw, the cutter ruins the bottom side and is nicer on the top one. Anyway, it's not anything dramatic. It still works:
 ![Third module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_151420.jpg)
 ![Third module front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_151434.jpg)
+![Fourth module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195030.jpg)
 
-![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
-![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
+
+![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_19 .jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODA3NDI3Nyw3NTkxMzYxMzYsLTQxMD
-IxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIzLDg1NDc4NzA1
-MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMzI1NTE3MDBdfQ
-==
+eyJoaXN0b3J5IjpbLTE5NjI4MTYwMSwxMzg4MDc0Mjc3LDc1OT
+EzNjEzNiwtNDEwMjE3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkx
+MjMsODU0Nzg3MDUxLC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMT
+MzMjU1MTcwMF19
 -->
