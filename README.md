@@ -24,9 +24,10 @@ Anyway, I'm quite happy of the result and there's no obvious visible damage. Rem
 Let's move to the assembling:
 ![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
 
-Whops! We removed the area where the top shelf was supposed to be attached. I tried to just ignore it, but the result wasn't stable enough, so we really need to provide a fixed top shel
+Whops! We removed the area where the top shelf was supposed to be attached. I tried to just ignore it, but the result wasn't stable enough, so we really need to provide a side-fixed top shelf. So I took the removed top part of the upright and made a reference out of it:
+![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2MTY2OCwtODkwOTQ5NTY5LC0xOD
+eyJoaXN0b3J5IjpbLTI4NTI5NzYwNSwtODkwOTQ5NTY5LC0xOD
 k5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3
 NTksLTEzMzI1NTE3MDBdfQ==
 -->
