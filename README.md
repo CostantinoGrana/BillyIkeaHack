@@ -40,7 +40,7 @@ Than you can go on with the usual Billy assembly:
 Then you need the last hacking of the back panel, in order to have the sloping back: measure the top position at each side, draw a line and cut with a cutter. But...
 ![Measure the back panel top position](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142618.jpg)
 ![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_142827.jpg)
-**Don't do as I show in this picture!!!** In fact on the last Billy I realized that, instead, I should have cut with the **white side on top**. As for the jigsaw, the cutter ruins the bottom side and is nicer on the top one. Anyway, it's not anything dramatic. It still works:
+**Don't do as I show in this picture!!!** In fact on the last Billy I realized that, instead, I should have cut with the **white side on top**. As for the jigsaw, the cutter ruins the bottom side and it is nicer on the top one. Anyway, it isn't anything dramatic, still looking nice:
 ![Third module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_151420.jpg)
 ![Third module front](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_151434.jpg)
 ![Fourth module](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195030.jpg)
@@ -57,9 +57,9 @@ The final result is this:
 
 All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof. I'm now thinking of extending it further over the radiator, and I'm sure I've seen an Ikea hack for this, but I can't find it anymore. I'll update this in case things extend more!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjM5ODYwMCwxMTU3NzMzNTU4LC0xOD
-UwOTk1NzIsLTExNTgyMDAxMjQsLTE0NTQ3NTQ4NTUsMTM4ODA3
-NDI3Nyw3NTkxMzYxMzYsLTQxMDIxNzE1NywtODkwOTQ5NTY5LC
-0xODk5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5
-MTE3NTksLTEzMzI1NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbNTI0NDY0MzIwLC04MjIzOTg2MDAsMTE1Nz
+czMzU1OCwtMTg1MDk5NTcyLC0xMTU4MjAwMTI0LC0xNDU0NzU0
+ODU1LDEzODgwNzQyNzcsNzU5MTM2MTM2LC00MTAyMTcxNTcsLT
+g5MDk0OTU2OSwtMTg5OTQ5OTEyMyw4NTQ3ODcwNTEsLTU2NDQ2
+NjIwOSwtMjkyOTExNzU5LC0xMzMyNTUxNzAwXX0=
 -->
