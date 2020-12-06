@@ -31,10 +31,12 @@ I marked the drilling positions with a awl:
 ![Awl marking of drilling positions](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131249.jpg)
 
 Then I made the holes with a 4 mm and a 8 mm drill bit. Be careful, because the centering tip goes further than the side and you must be careful to not drill all the way through the upright. Maybe you can find blind hole drilling bits, but I only have one for hinges which is obviously too large. 
-![Awl marking of drilling positions](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131249.jpg)
+![8 mm holes](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_131655.jpg)
+![4 mm holes](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_132108.jpg)
+Than you can go on with the usual Billy assembly:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDgzOTY0NSw3NTkxMzYxMzYsLTQxMD
-IxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5MTIzLDg1NDc4NzA1
-MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLTEzMzI1NTE3MDBdfQ
-==
+eyJoaXN0b3J5IjpbNzg5MDY1NzQ0LDc1OTEzNjEzNiwtNDEwMj
+E3MTU3LC04OTA5NDk1NjksLTE4OTk0OTkxMjMsODU0Nzg3MDUx
+LC01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMTMzMjU1MTcwMF19
 -->
