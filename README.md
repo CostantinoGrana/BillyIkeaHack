@@ -52,10 +52,11 @@ And what about the lower part? Well I should have screwed the columns together, 
 ![Bottom holding](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_195054.jpg)
 
 The final result is this:
-![Cut along the line](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_14 .jpg)
+![Final result](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_204959.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ3NTQ4NTUsMTM4ODA3NDI3Nyw3NT
-kxMzYxMzYsLTQxMDIxNzE1NywtODkwOTQ5NTY5LC0xODk5NDk5
-MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3NTksLT
-EzMzI1NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbLTExNTgyMDAxMjQsLTE0NTQ3NTQ4NTUsMT
+M4ODA3NDI3Nyw3NTkxMzYxMzYsLTQxMDIxNzE1NywtODkwOTQ5
+NTY5LC0xODk5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC
+0yOTI5MTE3NTksLTEzMzI1NTE3MDBdfQ==
 -->
