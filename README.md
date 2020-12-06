@@ -55,9 +55,9 @@ The final result is this:
 ![Final result](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_204959.jpg)
 ![Final result with some books](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201206_131139.jpg)
 
-All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof
+All in all, I'm pretty happy with the result, which looks good and fits perfectly under the sloped roof. I'm 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjcwMjAzMywtMTE1ODIwMDEyNCwtMT
+eyJoaXN0b3J5IjpbLTE4NTA5OTU3MiwtMTE1ODIwMDEyNCwtMT
 Q1NDc1NDg1NSwxMzg4MDc0Mjc3LDc1OTEzNjEzNiwtNDEwMjE3
 MTU3LC04OTA5NDk1NjksLTE4OTk0OTkxMjMsODU0Nzg3MDUxLC
 01NjQ0NjYyMDksLTI5MjkxMTc1OSwtMTMzMjU1MTcwMF19
