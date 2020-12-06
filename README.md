@@ -20,8 +20,12 @@ Cutting the uprights was not so difficult even using my 40 years old Black and D
 ![Small dents in the plywood](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130549.jpg)
 ![Hard to see adhesive tape marks](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130601.jpg)
 Anyway, I'm quite happy of the result and there's no obvious visible damage. Remember that when cutting with the jigsaw (at least with by blades) the side on top will be ok, while the bottom side will get the previous cracks.
+
+Let's move to the assembling:
+![Assembling](https://github.com/CostantinoGrana/BillyIkeaHack/raw/main/Ikea/IMG_20201205_130628.jpg)
+Whops! We removed the top 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDc3ODc0MywtODkwOTQ5NTY5LC0xOD
-k5NDk5MTIzLDg1NDc4NzA1MSwtNTY0NDY2MjA5LC0yOTI5MTE3
-NTksLTEzMzI1NTE3MDBdfQ==
+eyJoaXN0b3J5IjpbNDY3MjEyMTcsLTg5MDk0OTU2OSwtMTg5OT
+Q5OTEyMyw4NTQ3ODcwNTEsLTU2NDQ2NjIwOSwtMjkyOTExNzU5
+LC0xMzMyNTUxNzAwXX0=
 -->
